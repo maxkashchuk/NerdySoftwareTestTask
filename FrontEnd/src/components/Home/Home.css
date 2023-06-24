@@ -1,0 +1,21 @@
+.button-table {
+    margin: 2vh;
+}
+
+.add-elements {
+    display: inline-block;
+}
+
+.add-button { 
+    width: 100px;
+    height: 50px;
+    padding: 2vh;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.area {
+    margin: 2vh;
+}
